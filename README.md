@@ -60,6 +60,13 @@ https://sudhasuman.free.nf/
 - Improved UI/UX design  
 
 ---
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="800"/>
+  <img src="screenshots/dashboard.png" width="800"/>
+  <img src="screenshots/charity.png" width="800"/>
+</p>
 
 ## Author
 

@@ -63,9 +63,9 @@ https://sudhasuman.free.nf/
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="800"/>
-  <img src="screenshots/dashboard.png" width="800"/>
-  <img src="screenshots/charity.png" width="800"/>
+  <img src="Home.png" width="800"/>
+  <img src="dashboard.png" width="800"/>
+  <img src="charity.png" width="800"/>
 </p>
 
 ## Author

@@ -1,8 +1,10 @@
 # Sudha Suman Foundation Website
 
-This repository contains the complete website project for **Sudha Suman Foundation**, an NGO focused on community support, child education, women empowerment, and environmental initiatives.
+This repository contains the official website of Sudha Suman Foundation, an NGO dedicated to community development, child education, women empowerment, and environmental initiatives.
 
-## 📂 Project Structure
+---
+
+## Project Structure
 
 NGO/
 ├── index.php
@@ -11,25 +13,61 @@ NGO/
 ├── donate.php
 ├── projects.php
 ├── gallery.php
-├── register.php (deleted)
 ├── db.php
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── images/
 ├── includes/
-│ ├── header.php
-│ └── footer.php
+│   ├── header.php
+│   └── footer.php
 
+---
 
-## 💻 Technologies Used
+## Technologies Used
 
-- PHP
-- MySQL
-- HTML5, CSS3, JavaScript
-- Git & GitHub
+- PHP (Backend Development)  
+- MySQL (Database Management)  
+- HTML5, CSS3, JavaScript (Frontend)  
+- Git & GitHub (Version Control)  
 
-## 🚀 Features
+---
 
-- Responsive website layout
+## Features
+
+- Responsive and user-friendly website design  
+- Donation page for supporting NGO initiatives  
+- Projects section to showcase ongoing activities  
+- Gallery for displaying images and events  
+- Contact form for user queries and communication  
+- Backend database integration using MySQL  
+- Reusable components (header and footer) using PHP includes  
+
+---
+
+## Live Demo
+
+https://sudhasuman.free.nf/
+
+---
+
+## Future Improvements
+
+- User authentication system  
+- Admin dashboard for managing content  
+- Online payment gateway integration  
+- Improved UI/UX design  
+
+---
+
+## Author
+
+Rahul Maurya  
+GitHub: https://github.com/Rahulmaurya1234  
+Portfolio: https://rahulmaurya1234.github.io/my-portfolio/  
+Email: rahul2003maurya@gmail.com  
+
+---
+
+This project demonstrates my skills in full stack web development using PHP and MySQL.
